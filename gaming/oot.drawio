@@ -1,103 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T23:36:29.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lnZPw0oori_ydfmm-bc-" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T20:19:35.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Oj-yvpBzaw4XrdHHxmsm" version="24.2.8" type="github">
   <diagram id="ExdVcAUaZuNl6TTwVnS5" name="Page-1">
-    <mxGraphModel dx="1434" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-2">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-7" value="Graveyard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-6">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-7" value="Graveyard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-6" vertex="1" connectable="0">
           <mxGeometry x="0.0055" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-5">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-9" value="Hyrule Field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-8">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-9" value="Hyrule Field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-8" vertex="1" connectable="0">
           <mxGeometry x="-0.5621" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-18">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="cMVdIXUV59GpLGK3NVcO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-20" value="Death Mountain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-19">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-20" value="Death Mountain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-19" vertex="1" connectable="0">
           <mxGeometry x="0.0664" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-1" value="Spawn&lt;div&gt;Kakariko Village&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="100" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-2" target="cMVdIXUV59GpLGK3NVcO-10">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="08FwxlV-tghjrANm7_Xl-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-13" value="Zora Entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-11">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-1" value="Spawn&lt;div&gt;Kakariko Village&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMVdIXUV59GpLGK3NVcO-2" target="cMVdIXUV59GpLGK3NVcO-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-13" value="Zora Entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0448" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-2" value="Zora&#39;s Domain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-2" value="Zora&#39;s Domain" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-5" target="cMVdIXUV59GpLGK3NVcO-15">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-5" target="cMVdIXUV59GpLGK3NVcO-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-17" value="Fall down river" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-16">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-17" value="Fall down river" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-16" vertex="1" connectable="0">
           <mxGeometry x="0.3283" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-5" value="Gerudo Valley" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="331" y="260" />
+              <mxPoint x="331" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-15" value="entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-13">
+          <mxGeometry x="-0.4529" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-5" value="Gerudo Valley" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-10" value="&lt;br&gt;&lt;span data-darkreader-inline-bgcolor=&quot;&quot; data-darkreader-inline-color=&quot;&quot; style=&quot;color: rgb(157, 156, 154); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(33, 35, 35); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; --darkreader-inline-color: #78746d; --darkreader-inline-bgcolor: #232424;&quot;&gt;Goron City&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-15" target="cMVdIXUV59GpLGK3NVcO-23">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-25" value="Hyrule Field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-24">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-9" value="behind rock in throne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-6">
+          <mxGeometry x="-0.4854" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="290" />
+              <mxPoint x="670" y="290" />
+              <mxPoint x="670" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-12" value="Main entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-10">
+          <mxGeometry x="-0.2727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-10" value="&lt;div&gt;Goron City&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-15" target="cMVdIXUV59GpLGK3NVcO-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-25" value="Hyrule Field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-24" vertex="1" connectable="0">
           <mxGeometry x="-0.0908" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-15" value="Lake Hylia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-15" value="Lake Hylia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-18" value="Gerudo Fortress" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-18" value="Gerudo Fortress" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="-60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-23" target="cMVdIXUV59GpLGK3NVcO-27">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-23" target="cMVdIXUV59GpLGK3NVcO-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-29" value="DMC entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-28">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-29" value="DMC entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-28" vertex="1" connectable="0">
           <mxGeometry x="-0.169" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-23" value="Death Mountain Crater" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-23" value="Death Mountain Crater" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-32">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-34" value="Zora River" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-33">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-34" value="Zora River" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-33" vertex="1" connectable="0">
           <mxGeometry x="-0.0355" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-55">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-57" value="Gerudo&lt;div&gt;Valley&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-56">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-57" value="Gerudo&lt;div&gt;Valley&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-56" vertex="1" connectable="0">
           <mxGeometry x="-0.3241" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-55">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cMVdIXUV59GpLGK3NVcO-27" target="cMVdIXUV59GpLGK3NVcO-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="570" as="targetPoint" />
             <Array as="points">
@@ -109,102 +149,117 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-63" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-62">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-63" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-62" vertex="1" connectable="0">
           <mxGeometry x="0.1847" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-27" value="Hyrule Field" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-27" value="Hyrule Field" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-32" target="cMVdIXUV59GpLGK3NVcO-35">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-32" target="cMVdIXUV59GpLGK3NVcO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-37" value="Lost Woods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-36">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-37" value="Lost Woods" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-36" vertex="1" connectable="0">
           <mxGeometry x="-0.3371" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-32" value="Kokiri Forest" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-32" value="Kokiri Forest" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-38">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-40" value="Stone Entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-39">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-40" value="Stone Entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-39" vertex="1" connectable="0">
           <mxGeometry x="-0.3862" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-41">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-43" value="Get Lost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-42">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-43" value="Get Lost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-42" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-52">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="cMVdIXUV59GpLGK3NVcO-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-54" value="skip kid and get to&lt;br&gt;&amp;nbsp;last path turn right" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-53">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-54" value="skip kid and get to&lt;br&gt;&amp;nbsp;last path turn right" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-53" vertex="1" connectable="0">
           <mxGeometry x="-0.2681" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-35" value="Lost Woods" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-35" value="Lost Woods" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-38" value="Hyrule&lt;div&gt;Castle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-38" value="Hyrule&lt;div&gt;Castle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-41" target="cMVdIXUV59GpLGK3NVcO-44">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-41" target="cMVdIXUV59GpLGK3NVcO-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-46" value="Dodongo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-45">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-46" value="Dodongo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-45" vertex="1" connectable="0">
           <mxGeometry x="-0.2664" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-41" target="cMVdIXUV59GpLGK3NVcO-47">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-41" target="cMVdIXUV59GpLGK3NVcO-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-51" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-48">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-51" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-48" vertex="1" connectable="0">
           <mxGeometry x="-0.1172" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-41" value="Death Mountain Trail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-41" value="Death Mountain Trail" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-44" value="Dodongo Cavern" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-44" value="Dodongo Cavern" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-47" target="cMVdIXUV59GpLGK3NVcO-49">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-47" target="cMVdIXUV59GpLGK3NVcO-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-47" value="Zora Fountain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-47" value="Zora Fountain" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-49" value="Ice Cavern" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-49" value="Ice Cavern" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="770" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-52" value="Haunted Wasteland" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-52" value="Haunted Wasteland" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-55" target="cMVdIXUV59GpLGK3NVcO-58">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-55" target="cMVdIXUV59GpLGK3NVcO-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-60" value="Hyrule&lt;div&gt;Entrance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMVdIXUV59GpLGK3NVcO-59">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-60" value="Hyrule&lt;div&gt;Entrance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cMVdIXUV59GpLGK3NVcO-59" vertex="1" connectable="0">
           <mxGeometry x="-0.0509" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-55" value="Market" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-55" value="Market" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMVdIXUV59GpLGK3NVcO-58" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMVdIXUV59GpLGK3NVcO-58" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-1" value="tektie grotto finished" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-5" value="&lt;div&gt;Sacred Forest Meadow&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-11" value="Shadow temple" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cMVdIXUV59GpLGK3NVcO-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+            <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
