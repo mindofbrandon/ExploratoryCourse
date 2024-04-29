@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T20:19:35.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Oj-yvpBzaw4XrdHHxmsm" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T00:45:06.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="md6ktgCaW8MvhmrwQCpm" version="24.2.8" type="github">
   <diagram id="ExdVcAUaZuNl6TTwVnS5" name="Page-1">
-    <mxGraphModel dx="1687" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,6 +259,71 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="310" as="sourcePoint" />
             <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-200" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-22" value="Kokiri forest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-20">
+          <mxGeometry x="-0.264" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-16" value="LW Bridge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-17" value="Zoras fountain&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.046;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-16" target="08FwxlV-tghjrANm7_Xl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-19" value="Hyrule field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-18">
+          <mxGeometry x="-0.2325" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-21" target="08FwxlV-tghjrANm7_Xl-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="-19.999999999999886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-29" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-28">
+          <mxGeometry x="0.1601" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-21" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="130" as="sourcePoint" />
+            <mxPoint x="-265.03999999999996" y="143.03999999999996" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="200" />
+              <mxPoint x="-160" y="200" />
+              <mxPoint x="-160" y="210" />
+              <mxPoint x="-265" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-27" value="ZD behind king zora" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-26">
+          <mxGeometry x="-0.1714" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-30" value="ocarina&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.046;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-30" target="08FwxlV-tghjrANm7_Xl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08FwxlV-tghjrANm7_Xl-32" value="nocture&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-31">
+          <mxGeometry x="-0.2969" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
