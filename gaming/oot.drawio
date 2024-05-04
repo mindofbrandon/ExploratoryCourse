@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T00:45:06.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="md6ktgCaW8MvhmrwQCpm" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T01:32:59.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DaogsSajAruZwjVDLD25" version="24.3.1" type="github">
   <diagram id="ExdVcAUaZuNl6TTwVnS5" name="Page-1">
-    <mxGraphModel dx="1595" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="08FwxlV-tghjrANm7_Xl-1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-1" target="08FwxlV-tghjrANm7_Xl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMVdIXUV59GpLGK3NVcO-1" value="Spawn&lt;div&gt;Kakariko Village&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -53,7 +53,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-5">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="320" as="targetPoint" />
             <Array as="points">
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-15" value="entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-13">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-15" value="entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-13" vertex="1" connectable="0">
           <mxGeometry x="-0.4529" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,15 +70,15 @@
         <mxCell id="cMVdIXUV59GpLGK3NVcO-5" value="Gerudo Valley" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-5">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-9" value="behind rock in throne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-6">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-9" value="behind rock in throne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-6" vertex="1" connectable="0">
           <mxGeometry x="-0.4854" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-11">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cMVdIXUV59GpLGK3NVcO-10" target="08FwxlV-tghjrANm7_Xl-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="310" as="targetPoint" />
             <Array as="points">
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-12" value="Main entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-10">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-12" value="Main entrance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-10" vertex="1" connectable="0">
           <mxGeometry x="-0.2727" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -192,6 +192,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZDQPEZpDQO1Cq09X59az-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMVdIXUV59GpLGK3NVcO-35" target="ZDQPEZpDQO1Cq09X59az-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDQPEZpDQO1Cq09X59az-3" value="Swim down" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZDQPEZpDQO1Cq09X59az-2">
+          <mxGeometry x="-0.2549" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cMVdIXUV59GpLGK3NVcO-35" value="Lost Woods" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="450" width="80" height="80" as="geometry" />
         </mxCell>
@@ -246,59 +254,59 @@
         <mxCell id="cMVdIXUV59GpLGK3NVcO-58" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-1" value="tektie grotto finished" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-1" value="tektie grotto finished" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-5" value="&lt;div&gt;Sacred Forest Meadow&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-5" value="&lt;div&gt;Sacred Forest Meadow&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-11" value="Shadow temple" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-11" value="Shadow temple" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="690" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cMVdIXUV59GpLGK3NVcO-15">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="cMVdIXUV59GpLGK3NVcO-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="310" as="sourcePoint" />
             <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-16">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="08FwxlV-tghjrANm7_Xl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-200" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-22" value="Kokiri forest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-20">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-22" value="Kokiri forest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-20" vertex="1" connectable="0">
           <mxGeometry x="-0.264" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-16" value="LW Bridge" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-16" value="LW Bridge" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-17" value="Zoras fountain&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-17" value="Zoras fountain&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="60" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.046;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-16" target="08FwxlV-tghjrANm7_Xl-17">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.046;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="08FwxlV-tghjrANm7_Xl-16" target="08FwxlV-tghjrANm7_Xl-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-19" value="Hyrule field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-18">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-19" value="Hyrule field" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2325" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-21" target="08FwxlV-tghjrANm7_Xl-16">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="08FwxlV-tghjrANm7_Xl-21" target="08FwxlV-tghjrANm7_Xl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-370" y="-19.999999999999886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-29" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-28">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-29" value="Kakariko Village" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-28" vertex="1" connectable="0">
           <mxGeometry x="0.1601" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-21" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-21" value="Graveyard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="130" as="sourcePoint" />
             <mxPoint x="-265.03999999999996" y="143.03999999999996" as="targetPoint" />
@@ -310,21 +318,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-27" value="ZD behind king zora" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-26">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-27" value="ZD behind king zora" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-26" vertex="1" connectable="0">
           <mxGeometry x="-0.1714" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-30" value="ocarina&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-30" value="ocarina&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.046;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="08FwxlV-tghjrANm7_Xl-30" target="08FwxlV-tghjrANm7_Xl-21">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.046;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="08FwxlV-tghjrANm7_Xl-30" target="08FwxlV-tghjrANm7_Xl-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="08FwxlV-tghjrANm7_Xl-32" value="nocture&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="08FwxlV-tghjrANm7_Xl-31">
+        <mxCell id="08FwxlV-tghjrANm7_Xl-32" value="nocture&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="08FwxlV-tghjrANm7_Xl-31" vertex="1" connectable="0">
           <mxGeometry x="-0.2969" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZDQPEZpDQO1Cq09X59az-1" value="Zora River" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
